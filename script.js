@@ -65,6 +65,6 @@ for (let index = 0; index < lang[i].length; index++) {
 let namePerson = 'Александр';
 //let namePerson = 'Андрей';
 
-(namePerson == 'Артем')?console.log('Директор'):(namePerson == 'Александр')?console.log('преподаватель'):console.log('студент');
+(namePerson == 'Артем') ? console.log('Директор') : (namePerson == 'Александр') ? console.log('преподаватель') : console.log('студент');
 
 
